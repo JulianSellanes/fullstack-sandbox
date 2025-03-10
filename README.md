@@ -1,2 +1,2 @@
-# React Sandbox
-A collection of experiments with React.
+# Fullstack Sandbox
+A collection of experiments with React, Node, and Express.
